@@ -1,2 +1,2 @@
 # hi-world
-only a test repository
+only a short test repository
